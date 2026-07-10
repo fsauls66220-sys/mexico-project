@@ -48,6 +48,7 @@ body {
 }
 
 
+
 .card-header.grid {
   grid-gap: 0;
 }
@@ -194,7 +195,7 @@ footer {
 footer h3 {
     font-weight: 700;
     font-size: 20px;
-    line-height: 30;
+    line-height: 30px;
     
 }
 
@@ -251,6 +252,10 @@ footer a {
 
     .card-header img {
         display: none;
+     
+
+        
+      
     }
     .embed {
         aspect-ratio: 16 / 9;
